@@ -1,0 +1,51 @@
+# Projet
+réalisation d'un site de revente de sneakers pour le client https://www.instagram.com/inthetemplesnkrs/
+
+# Resources utilisées :
+Next.js: https://nextjs.org/
+Sanity.io: https://www.sanity.io/
+Stripe: https://stripe.com/
+Shadcn/UI: https://ui.shadcn.com/
+Use Shopping Cart: https://useshoppingcart.com/
+
+# Next.js
+
+    Gestion intégrée des API : Next.js dispose d'un système intégré pour la gestion des API, ce qui facilite l'intégration de tes données. Cela peut être particulièrement utile si tu dois récupérer ou envoyer des données depuis et vers le serveur.
+
+    Routing automatique : Next.js fournit un système de routage automatique basé sur la structure des fichiers. Vous créez des fichiers dans le dossier pages et Next.js gère automatiquement le routage en fonction de ces fichiers.
+
+    Facilité de création de pages dynamiques : Si tu as besoin de créer des pages dynamiques basées sur les données, Next.js offre une syntaxe simple pour le passage de données depuis le serveur vers les pages, facilitant ainsi la manipulation et la visualisation des données.
+
+# Sanity.io
+
+    Gestion des médias : Sanity propose une gestion avancée des médias, permettant de manipuler et d'optimiser des images, vidéos et autres types de fichiers médias directement dans le CMS. Cela peut simplifier le processus de gestion des actifs numériques.
+
+    Évolutivité : Sanity est conçu pour évoluer avec vos besoins. Que votre projet soit petit ou qu'il nécessite une gestion de contenu à grande échelle, Sanity peut s'adapter en fonction de la croissance de votre application.
+   
+    Composants réutilisables : Vous pouvez créer des composants de contenu réutilisables dans Sanity, ce qui facilite la création de pages dynamiques sans avoir à recréer le même contenu à plusieurs endroits.
+
+    Intégration avec d'autres services : Sanity peut être intégré avec d'autres services et outils grâce à son API flexible. Cela facilite l'intégration de fonctionnalités tierces ou l'interaction avec d'autres systèmes.
+
+# Stripe
+
+    Facilité d'intégration : Stripe est réputé pour sa facilité d'intégration. Il fournit des bibliothèques et des API bien documentées pour plusieurs langages de programmation, ce qui permet aux développeurs d'intégrer rapidement et efficacement des fonctionnalités de paiement dans une application ou un site web.
+
+    Sécurité robuste : Stripe met en œuvre des normes de sécurité strictes et utilise le chiffrement pour protéger les données sensibles. En utilisant Stripe, vous bénéficiez d'une plateforme sécurisée qui respecte les normes de sécurité les plus élevées de l'industrie des paiements en ligne.
+
+    Solutions pour différents types de paiements : Stripe prend en charge une variété de méthodes de paiement, y compris les cartes de crédit et de débit, les paiements mobiles, les portefeuilles électroniques, les paiements ACH, etc. Cela offre une flexibilité accrue pour répondre aux préférences des utilisateurs.
+
+    utilisé par l'entreprise dans laquelle je travaille
+
+# Shadcn/UI
+
+    Copiez et collez les composants directement dans l'application
+    Bon design simple pour un vendeur de sneakers
+    Bien intégré avec Next.js 13 (app directory)
+
+# Use Shopping Cart
+
+    Facilité d'utilisation : La bibliothèque est conçue pour être simple à utiliser et à intégrer dans des applications React. Elle fournit des hooks personnalisés et des composants prêts à l'emploi pour faciliter la gestion du panier d'achats.
+
+    Flexibilité : La bibliothèque offre une certaine flexibilité dans la gestion du panier, vous permettant de personnaliser le comportement en fonction des besoins spécifiques de votre application.
+
+    Support pour Stripe : "use-shopping-cart" est conçu pour fonctionner en tandem avec Stripe, un service de traitement des paiements en ligne. Si vous utilisez Stripe comme solution de paiement, cette bibliothèque peut faciliter l'intégration du panier d'achats avec les fonctionnalités de paiement de Stripe.
